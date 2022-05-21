@@ -1,0 +1,8 @@
+node_modules
+public
+.npmrc
+package-*
+now.json
+postcss.config.js
+security-rules.json
+tailwind.config.js
