@@ -1,7 +1,9 @@
 node_modules
 public
 .npmrc
-package-*
+package-*lock.json
+packacge.jsonsrc
+.vscode
 now.json
 postcss.config.js
 security-rules.json
